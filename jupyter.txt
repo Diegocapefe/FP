@@ -1,0 +1,2 @@
+en wsl al ejecutar jupyter para ver un nootebok debemos pinchar en lo que nos sale como url en la terminal para que se abra
+(http://127.0.0.1:8888/tree?token=2add1e11e2c227223b0bbb9833a9138f9ea3466d96e6bd40)

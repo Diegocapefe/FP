@@ -1,0 +1,9 @@
+Ya que esta carpeta será un entorno virtual voy a apuntar todos las librerias de python que vaya a instalar por si me hiciera parta crear otro entorno e instalar las mismas dependencias
+
+1. python3 -m venv venv  (para crear entorno virtual)
+
+2. source ruta del entorno/venv/bin/activate      ==> ACTIVAR EL ENTORNO ANTES DE INSTALAR NADA (sino no va a dejar)    source /home/usuario/PYTHON/openAi_3conPDF/venv/bin/activate  
+    2.1. deactivate             ==> Salir del entorno
+
+2. pip install matplotlib (para generar graficas y diagramas)
+3. pip install jupyter (entorno de ejecución de python desde el navegador)
